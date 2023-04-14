@@ -1,0 +1,22 @@
+
+{
+   "files": [ 
+{
+         "name": "TH-PAYNET-VIP-1",
+                  "url": "https://raw.githubusercontent.com/AungTunOo25/VPN/main/PAYNET-VIP-3.ovpn"
+                        },
+{
+         "name": "TH-PAYNET-VIP-2",
+                  "url": "https://raw.githubusercontent.com/AungTunOo25/VPN/main/PAYNET-VIP-4.ovpn"
+                        },
+
+{
+         "name": "TH-PAYNET-VIP-3",
+                  "url": "https://raw.githubusercontent.com/AungTunOo25/VPN/main/PAYNET-VIP-5.ovpn"
+                        }
+                           ],
+                           "message":"update: 05/03/2023 \nConfig version: 1.2\nUpdate by: Aunglay \nWhat's new \nAdded VIP1/2/3 ",
+                              "title":"New update available now" ,
+                                 "version": 2
+                                 }
+                                 
