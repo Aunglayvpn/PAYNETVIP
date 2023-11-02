@@ -19,11 +19,11 @@
 
          "name": "TH-PAYNET-Lazada-1",
 
-                  "url": "https://raw.githubusercontent.com/Aunglay565809/PAYNET-VIP/main/PAYNET-VIP-4.ovpn"
+                  "url": "https://raw.githubusercontent.com/Aunglay565809/PAYNET-VIP/main/ATO-2.ovpn"
                         },
 {
          "name": "TH-PAYNET-Lazada-2",
-                  "url": "https://raw.githubusercontent.com/Aunglay565809/PAYNET-VIP/main/PAYNET-VIP-4.ovpn"
+                  "url": "https://raw.githubusercontent.com/Aunglay565809/PAYNET-VIP/main/LAZADA2.ovpn"
                         },
 {
          "name": "TH-PAYNET-Lazada-3",
@@ -31,8 +31,8 @@
                         }
 
                            ],
-                           "message":"update: 02/11/2023 \nConfig version: 24\nUpdate by: ဆရာJueHtetရဲ႕တပည့္ငတံုးေလးမွ \nအပ္ဒိတ္ဖိုင္မ်ားထည့္သြင္းလိုက္ၿပီ \nAdded VIP1/2/3 ",
+                           "message":"update: 02/11/2023 \nConfig version: 25\nUpdate by: ဆရာJueHtetရဲ႕တပည့္ငတံုးေလးမွ \nအပ္ဒိတ္ဖိုင္မ်ားထည့္သြင္းလိုက္ၿပီ \nAdded VIP1/2/3 ",
                               "title":"အပ္ဒိတ္အသစ္႐ွိေနပါၿပီ ျဖစ္ေသာေၾကာင့္ အပ္ဒိတ္လုပ္ေပးပါ" ,
-                                 "version": 39
+                                 "version": 40
                                  }
 
