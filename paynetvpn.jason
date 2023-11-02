@@ -1,20 +1,9 @@
 
 {
    "files": [ 
+
 {
-         "name": "TH-PAYNET-Dtac-1",
-                  "url": "https://raw.githubusercontent.com/Aunglay565809/PAYNET-VIP/main/PAYNET-VIP-4.ovpn"
-                        },
-{
-         "name": "TH-PAYNET-Dtac-2",
-                  "url": "https://raw.githubusercontent.com/Aunglay565809/PAYNET-VIP/main/PAYNET-VIP-4.ovpn"
-                        },
-{
-         "name": "TH-PAYNET-Dtac-3",
-                  "url": "https://raw.githubusercontent.com/Aunglay565809/PAYNET-VIP/main/PAYNET-VIP-4.ovpn"
-                        },
-{
-         "name": "TH-PAYNET-True-Nopro-1",
+         "name": "TH-PAYNET-True-Dtac-1",
                   "url": "https://raw.githubusercontent.com/Aunglay565809/PAYNET-VIP/main/PAYNET-VIP-1.ovpn"
                         },
 {
@@ -41,8 +30,8 @@
                         }
 
                            ],
-                           "message":"update: 30/10/2023 \nConfig version: 14\nUpdate by: ဆရာJueHtetရဲ႕တပည့္ငတံုးေလးမွ \nအပ္ဒိတ္ဖိုင္မ်ားထည့္သြင္းလိုက္ၿပီ \nAdded VIP1/2/3/4 ",
+                           "message":"update: 02/11/2023 \nConfig version: 15\nUpdate by: ဆရာJueHtetရဲ႕တပည့္ငတံုးေလးမွ \nအပ္ဒိတ္ဖိုင္မ်ားထည့္သြင္းလိုက္ၿပီ \nAdded VIP1/2/3/4 ",
                               "title":"အပ္ဒိတ္အသစ္႐ွိေနပါၿပီ ျဖစ္ေသာေၾကာင့္ အပ္ဒိတ္လုပ္ေပးပါ" ,
-                                 "version": 29
+                                 "version": 30
                                  }
 
