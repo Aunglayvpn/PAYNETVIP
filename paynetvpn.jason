@@ -9,7 +9,7 @@
                         },
 {
          "name": "TH-PAYNET-DTAC-LINE-2",
-                  "url": "https://r.githubusercontent.com/Aunglay565809/PAYNET-VIP/main/DTAC-LINE-2.ovpn"
+                  "url": "https://raw.githubusercontent.com/Aunglay565809/PAYNET-VIP/main/DTAC-LINE-2.ovpn"
                         },
 {
          "name": "TH-PAYNET-DTAC-LINE-3",
@@ -31,8 +31,8 @@
                         }
 
                            ],
-                           "message":"update: 17/11/2023 \nConfig version: 27\nUpdate by: ဆရာJueHtetရဲ႕တပည့္ငတံုးေလးမွ \nအပ္ဒိတ္ဖိုင္မ်ားထည့္သြင္းလိုက္ၿပီ \nAdded VIP1/2/3 ",
+                           "message":"update: 17/11/2023 \nConfig version: 28\nUpdate by: ဆရာJueHtetရဲ႕တပည့္ငတံုးေလးမွ \nအပ္ဒိတ္ဖိုင္မ်ားထည့္သြင္းလိုက္ၿပီ \nAdded VIP1/2/3 ",
                               "title":"အပ္ဒိတ္အသစ္႐ွိေနပါၿပီ ျဖစ္ေသာေၾကာင့္ အပ္ဒိတ္လုပ္ေပးပါ" ,
-                                 "version": 42
+                                 "version": 43
                                  }
 
