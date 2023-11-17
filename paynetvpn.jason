@@ -4,16 +4,16 @@
 
 
 {
-         "name": "TH-PAYNET-True-Dtac-1",
-                  "url": "https://raw.githubusercontent.com/Aunglay565809/PAYNET-VIP/main/PAYNET-VIP-1.ovpn"
+         "name": "TH-PAYNET-DTAC-LINE-1",
+                  "url": "https://raw.githubusercontent.com/Aunglay565809/PAYNET-VIP/main/DTAC-LINE-1.ovpn"
                         },
 {
-         "name": "TH-PAYNET-True-Dtac-2",
-                  "url": "https://raw.githubusercontent.com/Aunglay565809/PAYNET-VIP/main/PAYNET-VIP-2.ovpn"
+         "name": "TH-PAYNET-DTAC-LINE-2",
+                  "url": "https://r.githubusercontent.com/Aunglay565809/PAYNET-VIP/main/DTAC-LINE-2.ovpn"
                         },
 {
-         "name": "TH-PAYNET-True-Dtac-3",
-                  "url": "https://raw.githubusercontent.com/Aunglay565809/PAYNET-VIP/main/PAYNET-VIP-3.ovpn"
+         "name": "TH-PAYNET-DTAC-LINE-3",
+                  "url": "https://raw.githubusercontent.com/Aunglay565809/PAYNET-VIP/main/DTAC-LINE-3.ovpn"
                         },
 {
 
@@ -31,8 +31,8 @@
                         }
 
                            ],
-                           "message":"update: 02/11/2023 \nConfig version: 26\nUpdate by: ဆရာJueHtetရဲ႕တပည့္ငတံုးေလးမွ \nအပ္ဒိတ္ဖိုင္မ်ားထည့္သြင္းလိုက္ၿပီ \nAdded VIP1/2/3 ",
+                           "message":"update: 17/11/2023 \nConfig version: 27\nUpdate by: ဆရာJueHtetရဲ႕တပည့္ငတံုးေလးမွ \nအပ္ဒိတ္ဖိုင္မ်ားထည့္သြင္းလိုက္ၿပီ \nAdded VIP1/2/3 ",
                               "title":"အပ္ဒိတ္အသစ္႐ွိေနပါၿပီ ျဖစ္ေသာေၾကာင့္ အပ္ဒိတ္လုပ္ေပးပါ" ,
-                                 "version": 41
+                                 "version": 42
                                  }
 
